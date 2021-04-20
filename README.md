@@ -1,5 +1,9 @@
 # Portfolio
+<<<<<<< HEAD
 A showcase of projects that express my experience with SQL, HTML, Javascipt, CSS, Bootstrap, Python, ETL, and R.
+=======
+A showcase of projects that are reflective of my experience with SQL, HTML, Javascipt, CSS, Bootstrap, Python, ETL, and R.
+>>>>>>> 9357ab141172e4ecd20d6650b4eb256278917f34
 
 A summary of my projects from my Data Analytics Bootcamp at UC Berkeley with technology type.
 
